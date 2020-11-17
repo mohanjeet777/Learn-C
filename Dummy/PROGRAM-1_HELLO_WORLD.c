@@ -1,6 +1,5 @@
 #include<stdio.h>
 //tells compiler to include stdio.h file before actual compilation i.e. its a preprocessor command
-
 int main()
 //main function and the place where program execution begins
 {
